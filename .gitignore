@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# WinPython asset
+WinPython64-*
+WinPython32-*
+
+# Output asset
+nlp-winpython.zip

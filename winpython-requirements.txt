@@ -1,0 +1,16 @@
+cython==3.0.8
+matplotlib  
+medspacy==1.3.1
+negspacy
+nltk
+numpy 
+openpyxl 
+pandas 
+phruzz_matcher
+scikit-learn
+setuptools_scm[toml]>=6.2
+spacy
+tqdm
+
+# spacy models
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0.tar.gz#egg=en_core_web_sm

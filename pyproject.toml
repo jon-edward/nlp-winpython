@@ -1,0 +1,9 @@
+[project]
+name = "nlp-winpython"
+version = "0.1.0"
+description = "This is a custom WinPython build that contains tools useful for conducting Natural Language Processing."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests>=2.34.2",
+]
